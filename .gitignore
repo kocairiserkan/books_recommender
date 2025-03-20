@@ -1,2 +1,4 @@
 venv/
 books_cleaned.csv
+.env
+tagged_description.txt
